@@ -4,4 +4,7 @@ Color Swatch for a Rainmeter skin.
 
 <p><br></p>
 
+![](https://raw.githubusercontent.com/nek7u/ColorSwatch/main/w/images/home/smallsize.png)  
+<p><br></p>
+
 ![](https://raw.githubusercontent.com/nek7u/ColorSwatch/main/w/images/home/preview.colorswatch.gif)  
